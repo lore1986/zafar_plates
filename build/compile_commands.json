@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/lore/Documents/ai/plates-zafar/build",
+  "command": "/usr/bin/g++ -I/usr/include/gtk-4.0 -I/usr/include/gio-unix-2.0 -I/usr/include/cairo -I/usr/include/pango-1.0 -I/usr/include/harfbuzz -I/usr/include/fribidi -I/usr/include/gdk-pixbuf-2.0 -I/usr/include/pixman-1 -I/usr/include/uuid -I/usr/include/freetype2 -I/usr/include/libpng16 -I/usr/include/graphene-1.0 -I/usr/lib/x86_64-linux-gnu/graphene-1.0/include -isystem /usr/include/libmount -isystem /usr/include/blkid -isystem /usr/include/glib-2.0 -isystem /usr/lib/x86_64-linux-gnu/glib-2.0/include -isystem /usr/include/gstreamer-1.0 -isystem /usr/include/orc-0.4 -g -pthread -o CMakeFiles/plates-zafar.dir/plates-zafar.cpp.o -c /home/lore/Documents/ai/plates-zafar/plates-zafar.cpp",
+  "file": "/home/lore/Documents/ai/plates-zafar/plates-zafar.cpp"
+}
+]

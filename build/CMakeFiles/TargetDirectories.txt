@@ -1,0 +1,3 @@
+/home/lore/Documents/ai/plates-zafar/build/CMakeFiles/plates-zafar.dir
+/home/lore/Documents/ai/plates-zafar/build/CMakeFiles/edit_cache.dir
+/home/lore/Documents/ai/plates-zafar/build/CMakeFiles/rebuild_cache.dir
